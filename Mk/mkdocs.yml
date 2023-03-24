@@ -1,7 +1,8 @@
 site_name: Lenguaje de Marcas
 site_url: https://estefany89.github.io/MkDocs/
+
 nav:
-- Home: INDEX.md
+- Home: index.md
 - HTML: HTML.md
 - CSS: CSS.md
 - XML: XML.md
